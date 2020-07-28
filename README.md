@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on improving user expirience on Topcoder platform under the hat of the great <a href="https://www.topcoder.com/community/admins" target="_blank">Community Team</a>.
+
 <!--
 **kkartunov/kkartunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
