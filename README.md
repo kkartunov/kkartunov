@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 &nbsp;&nbsp;I’m currently working on improving user expirience on Topcoder as Product Engineer.
+🔭 &nbsp;&nbsp;I’m currently working on improving user expirience at Topcoder as Product Engineer.
 
 👯 &nbsp;&nbsp;I’m looking to collaborate on interesting projects for fun and/or profit. Please, contact me to start sharing with me...
 
